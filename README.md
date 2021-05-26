@@ -1,5 +1,5 @@
 # Geo Tracking of Waste
-This repo contains the code for my B.E. Final year project.
+This repo contains the code for our Final year project.
 
 ### Team Members:
 1. Sahil Pulikal
