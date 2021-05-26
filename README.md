@@ -23,24 +23,23 @@ This repo contains the code for my B.E. Final year project.
 
 ### Screenshots:
 <img src="Screenshots/1.png" width="50%" />
-
-Fig. 1: Homepage of Geo Tracking of Waste
+<figcaption>Fig. 1: Homepage of Geo Tracking of Waste</figcaption>
 <img src="Screenshots/2.png" width="50%" />
-Fig. 2: Admin Login Page
+<figcaption>Fig. 2: Admin Login Page</figcaption>
 <img src="Screenshots/3.png" width="50%" />
-Fig. 3: Monitoring of waste 
+<figcaption>Fig. 3: Monitoring of waste </figcaption>
 <img src="Screenshots/4.png" width="50%" />
-Fig. 4: Map shows the location of areas containing waste
+<figcaption>Fig. 4: Map shows the location of areas containing waste</figcaption>
 <img src="Screenshots/5.png" width="50%" />
-Fig. 5: Map shows object detected image of waste 
+<figcaption>Fig. 5: Map shows object detected image of waste </figcaption>
 <img src="Screenshots/6.png" width="50%" />
-Fig. 6: Detection of waste
+<figcaption>Fig. 6: Detection of waste</figcaption>
 <img src="Screenshots/7.png" width="50%" />
-Fig. 7: Garbage Collectors’ Attendance Management System
+<figcaption>Fig. 7: Garbage Collectors’ Attendance Management System</figcaption>
 <img src="Screenshots/8.png" width="50%" />
-Fig. 8: Employee login page for Garbage collectors
+<figcaption>Fig. 8: Employee login page for Garbage collectors</figcaption>
 <img src="Screenshots/9.png" width="50%" />
-Fig. 9: Homepage for Garbage Collectors displaying a map along with integrated messaging chat system.
+<figcaption>Fig. 9: Homepage for Garbage Collectors displaying a map along with integrated messaging chat system.</figcaption>
 
 ### For any help:
 For any help, create an issue on this repo and I'll help.
