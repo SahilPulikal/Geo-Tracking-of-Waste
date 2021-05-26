@@ -1,0 +1,26 @@
+Longitude,Latitude,Area,Status,Time_of_Day,Population,Distance_to_Industry
+72.9734,19.1711,Mumbai ,Empty,7pm-12am,70,20
+72.9542,19.1831,Mumbai ,Full,11am-3pm,90,28
+72.9376,19.1745,Mumbai,Half,11am-3pm,110,22
+72.9365,19.134,Mumbai,Full,11am-3pm,175,1
+72.9366,19.1458,Mumbai,Half,7-10 am,175,1
+72.9299,19.1475,Mumbai,Full,11am-3pm,175,1
+72.9091,19.1183,Mumbai,Full,11am-3pm,175,1
+72.8944,19.114,Mumbai,Full,3-7 pm,175,1
+72.9133,19.1334,Navi Mumbai,Half,7-10 am,70,20
+
+72.9219,19.0972,Navi Mumbai,Full,11am-3pm,75,25
+72.9408,19.1186,Navi Mumbai,Full,11am-3pm,175,1
+72.9962,19.1609,Navi Mumbai,Full,3-7 pm,70,20
+72.9762,19.1514,Navi Mumbai,Half,7-10 am,70,20
+73.0022,19.2033,Navi Mumbai,Half,7-10 am,70,20
+
+72.9803,19.1944,Thane City,Full,11am-3pm,110,22
+72.9459,19.1877,Thane City,Full,7-10 am,110,22
+72.9781,19.2183,Thane City,Half,7-10 am,75,25
+72.9749,19.1845,Thane City,Full,11am-3pm,75,25
+72.9712,19.1903,Thane City,Empty,7pm-12am,75,25
+72.9691,19.2643,Thane City,Empty,11am-3pm,75,25
+72.9545,19.1868,Thane City,Full,3-7 pm,75,25
+
+72.98018084089067,19.17972387522153,"Thane City",Full,"7-10 am",10,15
